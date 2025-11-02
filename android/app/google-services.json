@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351635466323",
+    "project_id": "feelio-27fd3",
+    "storage_bucket": "feelio-27fd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351635466323:android:ee6cd09e90ccdb2c697ea6",
+        "android_client_info": {
+          "package_name": "com.example.feelio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0f4u27qgj_fGXj7V6LH2bYEZVKL3e_zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
